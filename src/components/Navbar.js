@@ -8,7 +8,7 @@ function Navbar() {
     <>
       <nav className='navbar'>
         <div className='navbar-container'>
-            React Chat
+            <p>React Chat</p>
         </div>
       </nav>
     </>
